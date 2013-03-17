@@ -1,10 +1,14 @@
 <?php snippet('header') ?>
+<?php snippet('menu') ?>
+<?php snippet('submenu') ?>
 
-<div class="content">
+<section class="content">
 
-	<?php snippet('breadcrumb') ?>
-	<?= kirbytext($page->text()) ?>
-</div>
-<div style="clear:both"></div>
+  <article>
+    <h1><?php echo html($page->title()) ?></h1>
+    <?php echo kirbytext($page->text()) ?>
+  </article>
+
+</section>
 
 <?php snippet('footer') ?>

@@ -1,17 +1,9 @@
-﻿Title: Knowledge-Base
-
+Title: Kirby
 ----
-
-Author: Your company
-
+Author: Bastian Allgeier
 ----
-
-Description: Knowledge-Base
-
+Description: Kirby is awesome
 ----
-
-Keywords: knowledge-base, something
-
+Keywords: kirby, cms, kirbycms, php, filesystem
 ----
-
-Copyright: © 2012 Your company
+Copyright: © 2009-(date: Year) (link: http://bastianallgeier.com text: Bastian Allgeier)
